@@ -1,4 +1,4 @@
-url: "http://localhost:4000"
+url: "http://iaroc.org"
 exclude: [ "tasks", "Rakefile" ]
 auto: true
 google_analytics_id: UA-9997253-3
