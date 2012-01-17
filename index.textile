@@ -1,8 +1,9 @@
 ---
 layout: default
+title: International Autonomous Robot Competition
 ---
 
-h2. 5th Annual International Autonomous Robot Competition (iARoC), June 23 - June 24, 2012,  San Diego
+h2. 5th Annual International Autonomous Robot Competition (iARoC)
 
 h3. Prizes! Excitement!
 
@@ -12,8 +13,8 @@ h3. LOCATION: San Diego County Fairgrounds
 
 h3. DATE AND TIME: June 23 - June 24, 2012
 
-* RoboCamp  Monday - Friday, June 18 - 22, 10:00 AM - 9:00 PM
-* iARoC            Saturday - Sunday,  June 23 and 24, 2012 - 9:00 AM - 5:00 PM 
+* RoboCamp  Monday&ndash;Friday, June 18&ndash;22, 10:00 AM&ndash;9:00 PM
+* iARoC            Saturday&ndash;Sunday,  June 23&ndash;24, 9:00 AM&ndash;5:00 PM 
 
 See "schedule":schedule.html for details.
 
