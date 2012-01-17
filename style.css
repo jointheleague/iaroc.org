@@ -115,7 +115,7 @@ html { overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust:
  */
 
 a {
-	color: #F71570;
+	color: #F71515;
 	text-decoration: none;
 	-webkit-transition: all 100ms linear;
 	/*-moz-transition: all 100ms linear;*/
@@ -123,7 +123,7 @@ a {
 }
 
 a:hover {
-	color: #AC0649;
+	color: #AC0606;
 	text-shadow: 0 1px 0 #fff;
 }
 
@@ -362,15 +362,15 @@ hr {
 
 /* These selection declarations have to be separate
    Also: hot pink! */
-::-moz-selection{ background: #FF5E99; color: #fff; text-shadow: none; }
-::selection { background: #FF5E99; color: #fff; text-shadow: none; }
+::-moz-selection{ background: #FF5E5E; color: #fff; text-shadow: none; }
+::selection { background: #FF5E5E; color: #fff; text-shadow: none; }
 
 /**
  * Header
  */
 
 #header {
-	padding: 60px 20px 60px;
+	padding: 20px 20px;
 }
 
 #site-title a {
@@ -478,7 +478,7 @@ hr {
 }
 
 #menu a:hover {
-	color: #AC0649;
+	color: #AC0606;
 	border-radius: 10px 0 10px 0;
 	opacity: 0.75;
 }
@@ -489,20 +489,20 @@ hr {
 .more-link,
 input[type=submit],
 legend {
-	background: #fa4fab; /* Fallback */
-	background: -moz-linear-gradient(top, #fa4fab 0%, #f7387c 100%); /* FF 3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fa4fab), color-stop(100%,#f7387c)); /* Chrome, Safari 4+ */
-	background: -webkit-linear-gradient(top, #fa4fab 0%,#f7387c 100%); /* Chrome 10+, Safari 5.1+ */
-	background: -o-linear-gradient(top, #fa4fab 0%,#f7387c 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top, #fa4fab 0%,#f7387c 100%); /* IE10+ */
-	background: linear-gradient(top, #fa4fab 0%,#f7387c 100%); /* W3C */
+	background: #fa4f4f; /* Fallback */
+	background: -moz-linear-gradient(top, #fa4f4f 0%, #f73838 100%); /* FF 3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fa4f4f), color-stop(100%,#f73838)); /* Chrome, Safari 4+ */
+	background: -webkit-linear-gradient(top, #fa4f4f 0%,#f73838 100%); /* Chrome 10+, Safari 5.1+ */
+	background: -o-linear-gradient(top, #fa4f4f 0%,#f73838 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #fa4f4f 0%,#f73838 100%); /* IE10+ */
+	background: linear-gradient(top, #fa4f4f 0%,#f73838 100%); /* W3C */
 	
 	color: #fff;
 	border-color: transparent;
 	border-radius: 10px 0 10px 0;
 	font-weight: bold;
 	padding: 14px 20px;
-	text-shadow: 0 1px 0 #AC0649;
+	text-shadow: 0 1px 0 #AC0606;
 	-webkit-transition: all 100ms linear;
 	/*-moz-transition: all 100ms linear;*/
 	transition: all 100ms linear;
@@ -575,7 +575,7 @@ input[type=submit]:hover {
 }
 
 .post .entry-title a:hover { 
-	color: #ac0649;
+	color: #ac0606;
 }
 
 /* Post meta */
@@ -655,7 +655,7 @@ figure {
 }
 
 figure:hover {
-	border: 2px solid #F83D87;
+	border: 2px solid #F83D3D;
 }
 
 figure,
@@ -728,7 +728,7 @@ figcaption {
 	}
 	
 	.widget li a:hover {
-		color: #AC0649;
+		color: #AC0606;
 		margin-left: 10px;
 	}
 
@@ -829,9 +829,9 @@ input:focus,
 textarea:hover,
 textarea:focus {
 	color: #333;
-	-webkit-box-shadow: 0px 1px 1px #ccc, inset 1px 2px 1px rgba(250, 79, 170, 0.3);
-	-moz-box-shadow: 0px 1px 1px #ccc, inset 1px 2px 1px rgba(250, 79, 170, 0.3);
-	box-shadow: 0px 1px 1px #ccc, inset 1px 2px 1px rgba(250, 79, 170, 0.3);
+	-webkit-box-shadow: 0px 1px 1px #ccc, inset 1px 2px 1px rgba(250, 79, 79, 0.3);
+	-moz-box-shadow: 0px 1px 1px #ccc, inset 1px 2px 1px rgba(250, 79, 79, 0.3);
+	box-shadow: 0px 1px 1px #ccc, inset 1px 2px 1px rgba(250, 79, 79, 0.3);
 }
 
 textarea {
