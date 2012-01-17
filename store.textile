@@ -1,0 +1,53 @@
+---
+layout: default
+title: Store
+---
+
+h2. {{ page.title }}
+
+To make a purchase, contacts us via the "Wintriss Technical Schools contact form":http://wintrisstech.org/contact.html.
+
+h3. Roomba Create to Sun SPOT interface/breakout board
+
+The Create/SPOT interface board plugs directly into the 25-pin connector in the Roomba Create cargo bay and connects via included 20-pin cable to the Sun Microsystems SPOT controller.  The interface board level shifts the signals properly for communication between the 5-volt Create and the 3-volt SPOT and provides ample breadboarding space for adding additional circuitry.  Four modular connectors are provided for easy connection of external sensors such as ultrasonic sensors.  $89, including 20-pin cable (SPOT and sensor not included).  Packing and USPS priority mail, $9.50.
+
+<figure>
+  !files/CreateSPOTinterfaceFront.jpg!
+  <figcaption>
+    Interface Board with SPOT and Sonic Module (front)
+  </figcaption>
+</figure>
+
+<figure>
+  !files/CreateWithInterfaceBoard.jpg!
+  <figcaption>
+    Create with Interface Board, SPOT and Sonic Sensor
+  </figcaption>
+</figure>
+
+<figure>
+  !files/CreateSPOTinterfaceBack.jpg!
+  <figcaption>
+    Interface Board with SPOT and Sonic Module (rear)
+  </figcaption>
+</figure>
+
+Go to: "223_001_SCHEMATIC1_2009.pdf":files/223_001_SCHEMATIC1_2009.pdf for a complete schematic diagram.
+
+h3. iARoC T-Shirts
+
+Original Matt Allen design iARoC 2009/2010 T-Shirt, in any color.  Minimum order three T-Shirts.  $27.50 each plus $4.85 packing and USPS priority mail.
+
+<figure>
+  !files/tshirt2010.jpg!
+  <figcaption>
+    iARoC 2010 T-Shirt
+  </figcaption>
+</figure>
+
+<figure>
+  !files/tshirt2009.jpg!
+  <figcaption>
+    iARoC 2009 T-Shirt
+  </figcaption>
+</figure>
