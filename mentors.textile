@@ -1,0 +1,46 @@
+---
+layout: default
+title: Mentors
+---
+
+h2. {{ page.title }}
+
+h4. Become a Mentor
+
+Make a lasting impact on a teenager's future and help build the technology workforce of the future by becoming a Team Mentor. This competition uses robots and programming to engage students in learning the practical applications of science, technology, engineering and math.
+
+Watch middle and high school students grow as they design, build, program and document their own autonomous robots to compete in a fast-paced tournament. Teams are advised to purchase a robot kit including microprocessors, sensors, motors and software.
+
+Your role as a mentor can have a profound influence on students and teachers in your area!
+
+As a mentor you can make a difference in a student's life:
+
+* Build a student's confidence in his or her own abilities to solve problems.
+* Expand their knowledge in science, technology, engineering and math.
+* Be a positive role model to middle and high school students of all backgrounds.
+* Introduce students to careers in technical fields they may have never considered.
+* Serve as a resource, sounding board, coach and cheerleader.
+* Challenge students to learn new skills and concepts in an exciting environment.
+* And, have a great time!
+
+Mentors come from a variety of professions - engineering, science, technology, computer programming. While students design, build, program and document the robot themselves, your expertise as a resource and trouble shooter is important to a team's success.
+
+Mentors provide coaching in areas such as:
+
+* Robot Design
+* Game Strategy
+* Computer Programming (Java or language of chosen platform)
+* Research
+* Website Design
+
+The time commitment for mentors will vary depending on the team. Many mentors schedule regular meeting times with their team. Typically, meetings are held once a week and other communication occurs via e-mail or phone. The number of hours you contribute depends on your schedule and the team's skill level. We do our best to match mentors and teams by proximity.
+
+For more information or to become a mentor, contact us at info@iaroc.org. Wintriss Technical Schools, Inc 12707 High Bluff Drive #200, San Diego, CA 92130 info@wintrisstech.org www.wintrisstech.org Changing Kids' Lives With Java A 501(c)3 Public Benefit Institution
+
+h4. Responsibilities
+
+h4. Schedule
+
+h4. Forums
+
+h4. Links

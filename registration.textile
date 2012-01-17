@@ -1,0 +1,31 @@
+---
+layout: default
+title: Registration
+---
+
+h2. {{ page.title }}
+
+To register, do the following
+
+# Download and fill out the Entry Form (under attachments below).
+# Mail the completed entry form with team entry fee of $500 ($400 if received prior to April 1, 2011) to the address below.
+
+<pre>Wintriss Technical Schools
+Post Office Box 910471
+San Diego, CA 92191-0471
+</pre>
+
+The iARoC 2011 Flyer is attached below along with a complete set of rules.
+
+Check out iARoC videos and pictures at www.wintrisstech.org.
+
+*Registration Deadline*: The last day for registration is Aprily 15, 2011. Late registrations will be considered on a case-by-case basis and will be charged a late registration fee.
+
+The cost for registration for a team is $500, non-refundable, $400 if received prior to April 1, 2011. Any individual or group can enter more than one robot, but a registration fee must accompany each team entry. The same physical robot cannot be entered twice. A team can have copies of the same robot to use as a backup or spare parts or relay running. For first time entrants, discounts are available for iRobot Roomba Creates and Sun Microsystems SPOT controllers.
+
+h4. Entry
+
+An entry is defined as a team captain and robot pair entered into a "division":about.html. There are no restrictions as to who can enter a robot. A single team with a single robot, can only be considered as a single entry. There is no limit on team size. There will be a maximum of 20 entries allowed, as this is the maximum number of entries we can accommodate with the amount of time available. Entries will be posted on the "forum":teams.html as they sign up.
+
+* "2011 iARoC Flyer (pdf)":files/2011_iARoc_Flyer_outlines_Rev1.pdf
+* "2011 Entry Form (pdf)":files/EntryForm2011.pdf
