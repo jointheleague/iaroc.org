@@ -79,9 +79,11 @@
         
         <aside class="widget">
             <!-- Non working search -->
-            <form action="#" class="searchform">
-                <input type="search" results="10" placeholder="Search..." />
+            <form method="get" action="http://www.google.com/search" class="searchform">
+                <input type="search" name="q" maxlength="255" placeholder="Search..." />
                 <input type="submit" value="Search" />
+                <input type="hidden" name="domains" value="iaroc.org" />
+                <input style="visibility:hidden" type="radio" name="sitesearch" value="iaroc.org" checked="checked" />
             </form> <!-- .searchform -->
         </aside> <!-- .widget -->
         
