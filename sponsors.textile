@@ -1,0 +1,25 @@
+---
+layout: default
+title: Sponsors
+---
+
+h2. {{ page.title }}
+
+h3. Become a Sponsor
+
+You can support this program with a donation of any amount to "Wintriss Technical Schools":http://wintrisstech.org/donations.html. Your donations will go 100% towards making this competition better than it would be otherwise.
+
+Donations can be provided via either cash or equipment, either will be greatly appreciated.
+
+"Wintriss Technical Schools":http://wintrisstech.org is a <notextile>501(c)3</notextile> nonprofit organization possibly making the donation tax deductible.
+
+h3. Donate Online
+
+{% include paypal.html %}
+
+h3. Platinum Sponsor
+
+h3. Gold Sponsor
+
+h3. Honorable Sponsor
+
