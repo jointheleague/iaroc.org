@@ -26,16 +26,16 @@ Winners for each division will be determined based on points earned by the succe
 The points for completing each task will be as follows
 
 |_. Task |_. 1st Place |_. 2nd Place |_. 3rd Place |_. Successful Completion|
-| Technical presentation | 200 | 150 | 100 | 50|
-| Urban Challenge | 600 | 500 | 400 | 300|
-| Urban BONUS |  |  |  | 400|
-| Gold Rush Challenge | 200 | 150 | 100 | 50|
+| "Technical presentation":#tech_pres | 200 | 150 | 100 | 50|
+| "Urban Challenge":#urban | 600 | 500 | 400 | 300|
+| "Urban BONUS":#urban_bonus |  |  |  | 400|
+| "Gold Rush Challenge":#gold_rush | 200 | 150 | 100 | 50|
 
 The sum of points achieved for each task will be used to determine the overall winner of each division.
 
 h3. Tasks
 
-h4. Technical Presentation
+h4(#tech_pres). Technical Presentation
 
 During day 1 of the competition, each team is required to present to a panel of Judges. A common table will be provided where the team can set up their presentation. Judges are expecting a technical presentation explaining the details of the software and hardware engineering details of the team's particular robot. Presentations can include poster boards and other aids, but will mostly be comprised of the team orally explaining how their robot functions. PowerPoint presentations are acceptable but remember projectors will not work in the tent so have a large screen with you. We may be able to provide a large screen, 40 inches, but I can not guarantee this.
 
@@ -51,7 +51,7 @@ The maximum amount of time for the Technical Presentation will be 15 minutes. Th
 
 We may start the presentations earlier than 13:00 to facilitate a less hectic presentation. We have 11 teams and must be done by 17:00.
 
-h4. Urban Challenge
+h4(#urban). Urban Challenge
 
 A maze will be built, through which a robot will need to travel to reach an infrared beacon which will need to be bumped to stop a timer. The maze is intended to simulate an urban setting with streets and buildings. A sample maze layout is provided in Figure 1. The approximate dimensions of the maze lane will be 2.5m x 8m. The starting line will be at one end of the maze with the beacon at the other end of the maze. The beacon will be attached to a wall with a mechanical switch that must be activated to successfully finish the task. The beacon will not be visible from the starting line, as the buildings/walls of the maze will obscure it until such point as the robot reaches the correct corridor. The flooring will be smooth, commercial grade carpet. Traction should not be a problem. There will be no moving obstacles during this task.
 
@@ -78,13 +78,13 @@ h5. Time Limits
 
 Each entry will be provided with 20 minutes within which to achieve the best time from start to finish of the maze. The team captain, or one designated team member, will be allowed to fetch the robot and restart a run as many times as desired during their 20 minute time slot. There will be 5 minutes for the team vacate the maze and allow the next team to set up.
 
-h4. Urban BONUS
+h4(#urban_bonus). Urban BONUS
 
 400 Bonus points will be awarded to each team during the competition if their robot navigates the one correct path through the maze, from start to finish, non-stop *and the robot determined this path on its own without the path being programmed into it by the team during the competition.* The one correct path through the maze means that the robot will not take any dead end corridors. A robot's path will be judged by 50% of its body length after an intersection; so if you take a turn down a corridor it is deemed that the robot took that corridor if 50% of its body length has crossed the line of the intersection. Your robot must do this during the Urban Challenge Time Limits of the competition.
 
 We want to reward teams for their hard work in programming a robot that can actually solve the maze and then have the robot run that solution.
 
-h4. Gold Rush Challenge
+h4(#gold_rush). Gold Rush Challenge
 
 An open desert setting with rocks and cactus, through which a robot will need to travel through in order to reach one of 3 infrared beacons. The approximate dimensions of the desert are 8m x 8m. The starting line will be at one end, and the beacons will be located towards the other side but not on the outside wall. This task will involve moving obstacles in the form of fellow robot entries. Unlike the Urban Challenge, where each robot is running solo, in this task there will be other robots attempting to achieve the same goal. The robot will be required to work on avoiding the obstacles, rocks, cactus and other moving robots, in order to reach a beacon. The beacons, along with the bump switch, will be facing the starting lineup but will also be supported by a free standing framework. This framework will allow front access to the bump switch.
 
