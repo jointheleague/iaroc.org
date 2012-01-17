@@ -1,0 +1,41 @@
+---
+layout: default
+title: Teams
+---
+
+h2. iARoC 2011 Teams
+
+As of January, 2012, the following teams have indicated that they intend to participate:
+
+* Team Preuss School
+* Team Rylex
+* Team Skating Monkeys
+* Team Roombastic
+* Team Hawk
+* Team THE MOST studmuffin
+* Team Ninja Squirrel
+* Team Alien Pickles
+* Team C2C (CareFusion adult demo team)
+* Team NortherNerds
+* Team WestView
+* Team Gunn
+
+h3. Team Captain
+
+Each team will be required to elect a team captain. This is the individual who will be responsible for all coordination with the iARoC organization.
+
+h3. Team Mentor
+
+Each team may elect to have a "Mentor":mentors.html. This person will be responsible for helping the team out with technical and coordination issues. However, all tasks will have to be performed by a member of the team, as used to determine division.
+
+h3. Team Pages
+
+This is the team page where individual teams may post any information they feel appropriate. Please feel free to add any information about your team.
+
+h3. Scholarships
+
+Scholarships are available and requests for scholarships will be reviewed on a case by case basis, with financial need being the primary focus.
+
+h3. Reference Implementation
+
+See the "Team Reference":team-reference.html page for details.
