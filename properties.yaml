@@ -1,10 +1,10 @@
 ---
-project : my-website
+project : iaroc.org
 # The following URLs are the web addresses where the site will be deployed.
 # You must have one for your production deployment, and you may have one for your staging deployment.
 # It may be a top-level address (http://example.com) or a folder (http://example.com/something)
-production_url : http://example.com
-staging_url : http://staging.example.com
+production_url : http://iaroc.org
+staging_url : http://iaroc.org
 # The following are the destinations that rsync will push to when you use 'rake deploy'
 # It will typically be in the form of <server>:<folder>.
 # This MUST end with a trailing '/'
