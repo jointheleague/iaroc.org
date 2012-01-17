@@ -1,0 +1,188 @@
+---
+layout: default
+title: Rules
+---
+
+h2. {{ page.title }}
+
+All rules are subject to change at the discretion of the iARoC organization.
+
+h3. Overview
+
+The primary objective of this competition is to build an "autonomous robot":http://en.wikipedia.org/wiki/Autonomous_robot that can find its way through a set of fixed obstacles, locate an Infra-Red and visible home station beacon and activate a mechanical push-action switch at the home station.
+
+*The maze materials will be white PVC piping, 3 inch diameter, and 2 foot lengths between joints. These dimensions are approximate.*
+
+h3. Points
+
+Currently under review by the Judging Committee
+
+Winners for each division will be determined based on points earned by the successful completion of the following tasks
+
+# Technical Presentation
+# Urban Challenge
+# Gold Rush Challenge
+
+The points for completing each task will be as follows
+
+|_. Task |_. 1st Place |_. 2nd Place |_. 3rd Place |_. Successful Completion|
+| Technical presentation | 200 | 150 | 100 | 50|
+| Urban Challenge | 600 | 500 | 400 | 300|
+| Urban BONUS |  |  |  | 400|
+| Gold Rush Challenge | 200 | 150 | 100 | 50|
+
+The sum of points achieved for each task will be used to determine the overall winner of each division.
+
+h3. Tasks
+
+h4. Technical Presentation
+
+During day 1 of the competition, each team is required to present to a panel of Judges. A common table will be provided where the team can set up their presentation. Judges are expecting a technical presentation explaining the details of the software and hardware engineering details of the team's particular robot. Presentations can include poster boards and other aids, but will mostly be comprised of the team orally explaining how their robot functions. PowerPoint presentations are acceptable but remember projectors will not work in the tent so have a large screen with you. We may be able to provide a large screen, 40 inches, but I can not guarantee this.
+
+We expect the presentation to cover the overall choice of hardware and the relationship between the hardware and the software. Explain the algorithm used to facilitate a winning robot for the Urban Challenge and for the Gold Rush Challenge. You want to convince the Judges that your team has the most capable software to solve each Challenge. *If the team strategy is to have the robot stop at each decision point and be retrieved by the team in order to program a turn and estimated distance then the judges will take into account that the robot is NOT learning nor autonomous.*
+
+h5. The Order of Running
+
+Order of technical presentation will be based on the reverse ordering achieved on signing up for a test run. That is, the last entry to have a test run time slot, will be the first entry to have to do their Technical Presentation task.
+
+h5. Time Limits
+
+The maximum amount of time for the Technical Presentation will be 15 minutes. There will be a maximum of 5 minutes of questions by the Judges. The team must make way for the next team immediately.
+
+We may start the presentations earlier than 13:00 to facilitate a less hectic presentation. We have 11 teams and must be done by 17:00.
+
+h4. Urban Challenge
+
+A maze will be built, through which a robot will need to travel to reach an infrared beacon which will need to be bumped to stop a timer. The maze is intended to simulate an urban setting with streets and buildings. A sample maze layout is provided in Figure 1. The approximate dimensions of the maze lane will be 2.5m x 8m. The starting line will be at one end of the maze with the beacon at the other end of the maze. The beacon will be attached to a wall with a mechanical switch that must be activated to successfully finish the task. The beacon will not be visible from the starting line, as the buildings/walls of the maze will obscure it until such point as the robot reaches the correct corridor. The flooring will be smooth, commercial grade carpet. Traction should not be a problem. There will be no moving obstacles during this task.
+
+<figure>
+!files/Maze.png!
+<figcaption>Example Maze</figcaption>
+</figure>
+
+The intent of this task is to traverse this maze as quickly as possible from start to finish. The maze will be static. The winning robot will *learn* what the best path through the maze is to optimize its runs. Therefore, we expect a robot to do multiple timed attempts within the allotted time. The best time achieved in getting from start to finish will be recorded. *We are intent on having robots learn what the best path through the maze is, therefore human programming of the maze solution (coordinates obtained from a human solution) will disqualify the team from the Urban Challenge.*
+
+Lighting is expected to be consistent and provide visibility of all surfaces.
+
+A better example maze: "Robot_Maze_Publish1.pdf":files/Robot_Maze_Publish1.pdf
+
+h5. Scoring
+
+1st place will be given to the robot with the best time, 2nd to the second best time and 3rd to the third best. In order to be able to receive the Successful Completion points, an entry will have to have completed the task of going from the starting point to the end point.
+
+h5. The Order of Running
+
+The run order for the Urban Challenge will be in reverse order of standings from the Technical Presentation. That is, the entry who comes in 1st place on Technical Presentation will go last.
+
+h5. Time Limits
+
+Each entry will be provided with 20 minutes within which to achieve the best time from start to finish of the maze. The team captain, or one designated team member, will be allowed to fetch the robot and restart a run as many times as desired during their 20 minute time slot. There will be 5 minutes for the team vacate the maze and allow the next team to set up.
+
+h4. Urban BONUS
+
+400 Bonus points will be awarded to each team during the competition if their robot navigates the one correct path through the maze, from start to finish, non-stop *and the robot determined this path on its own without the path being programmed into it by the team during the competition.* The one correct path through the maze means that the robot will not take any dead end corridors. A robot's path will be judged by 50% of its body length after an intersection; so if you take a turn down a corridor it is deemed that the robot took that corridor if 50% of its body length has crossed the line of the intersection. Your robot must do this during the Urban Challenge Time Limits of the competition.
+
+We want to reward teams for their hard work in programming a robot that can actually solve the maze and then have the robot run that solution.
+
+h4. Gold Rush Challenge
+
+An open desert setting with rocks and cactus, through which a robot will need to travel through in order to reach one of 3 infrared beacons. The approximate dimensions of the desert are 8m x 8m. The starting line will be at one end, and the beacons will be located towards the other side but not on the outside wall. This task will involve moving obstacles in the form of fellow robot entries. Unlike the Urban Challenge, where each robot is running solo, in this task there will be other robots attempting to achieve the same goal. The robot will be required to work on avoiding the obstacles, rocks, cactus and other moving robots, in order to reach a beacon. The beacons, along with the bump switch, will be facing the starting lineup but will also be supported by a free standing framework. This framework will allow front access to the bump switch.
+
+The intent of this task is again to achieve the best time in reaching a beacon, however there will be other robots trying to do the same thing within the same arena. The "rocks" will be setup such that they will not obscure the beacons, but keep in mind that other robots are likely to do so.
+
+Lighting is expected to be consistent and provide visibility of all surfaces.
+
+1st place will be given to the first robot arriving at a beacon, 2nd place to the 2nd robot, 3rd to the 3rd robot.
+
+h5. The Order of Running
+
+Order of Desert Challenge will be in reverse order of standings from sum of Technical Presentation and Urban challenge. That is, the entry with the least amount of points will select their starting lane first.
+
+h5. Time Limits
+
+There is no theoretical time limit to the Gold Rush Challenge, whatever time it takes for the 3 beacons to be turned off. But for practical reasons, we will cap the time to 30 minutes.
+
+h3. Robot
+
+h4. iRobot Roomba Create Open Specification
+
+Check attachments below for a complete copy of the latest iRobot Create Open Specification.  Create to SPOT interface boards are available at the "WTS Store":store.html.
+
+h4. Operation
+
+Once turned on, the robot must be autonomous, self-controlled, battery operated and self-contained without any human intervention or remote computer. That is, the robots are to be controlled by an on board computing device and not manually controlled devices. The robot cannot leave anything behind as it travels through the arena. It cannot make any marks on the floor of the arena that aid in navigation as it travels.
+
+h4. Size
+
+Robot must be able to fit within a 70 cm circle and be no higher that 90 cm high. If the robot has feelers to sense objects, the feelers will be counted as part of the robot's total dimensions. Contestants may add a flags, hats or other purely decorative, non-functional items to the robot.
+
+h4. Weight
+
+There are no restrictions on the weight of the robot.
+
+h4. Construction Materials
+
+There are no restrictions on the types of materials used in the construction of the robot.
+
+h4. Sensors
+
+There is no restriction on the type of sensors that can be used as long as they do not violate any of the other rules or regulations. Robots that use laser-based devices must take measures to prevent eye damage to team members and to observers. Contestants are not allowed to place any markers, beacons or reflectors on the walls or floors to aid in the robot's navigation.
+
+The tasks of this competition have been designed such that the sensor requirements are intended to be as simple as possible. This is to allow entries to focus more on the software aspects of controlling a robot, rather than on the mechanical or capabilities of sensors.
+
+h4. Program Downloading
+
+Any program necessary must be downloaded to the robot before it is put into an arena when performing an actual task.
+
+h4. Electrical Power
+
+The maximum electrical requirements for any system needing power prior to contest runs at the arena will be 10 amps at 120 VAC, 60 Hz. Power can be used to power computers being used to work on robot, as well as other requirements such as charging batteries.
+
+h4. Cables
+
+No fixed cables are allowed to be connected to the robots during any contest run.
+
+h4. Wireless
+
+No wireless communication TO the robot are allowed during any contest run, see "Disqualification":#Disqualification. Telemetry FROM the robot is allowed.
+
+h4. Debug Runs
+
+Contestants will be given time on Day 1 to make debug runs for the purpose of working out last minute bugs and handle any possible unexpected surprises. There will be a sign up sheet made available on Day 1. The sign up sheet will be on a first come first served basis. Each slot will provide for 20 minutes of testing time. The number of debug runs possible will depend on how many times you are able to get into an open time slot. You will only be able to sign up for the next available time slot once you have completed a debug run. You can only sign up for one time slot at a time.
+
+We learned last year the teams were very nice in sharing portions of the maze with other teams. We feel that this is a good use of everyone's time and will continue this policy. If a team needs a full run of the maze then the team(s) NOT signed up for that time period must give way to the team which has signed up. In other words share but be respectful to the team who has control of the maze at that time.
+
+h3. Beacons
+
+The beacon will be located at the far end of the arena and be marked with an infrared (IR) LED. The LEDs will not be visible through the obstacles from the start line in the Urban Challenge, at least not until the robot is in a corridor that provides line of sight visibility. During the Gold Rush Challenge the beacon will be free standing and not attached to the arena wall. The beacon will be attached to a mechanical bump switch which will activate a blinking light visible to contestants and spectators. This will be utilized to signal successful completion of the task.  The beacon is a standard iRobot Roomba charging station.  See Create Open Interface document below for technical details.
+
+h3. Pit Area/Work Area
+
+Each team will be assigned a work area with a table and chairs. Each work area will have a single plug for power. Additional plugs needed will be responsibility of each team. Table will be 2' x 5'. Tables will be sturdy enough to do work on and support a computer to work with. All trash will be responsibility of each team, there will be a trash cans provided within proximity of work areas.
+
+h3. Safety
+
+The contest judges may stop any robot at any time if they feel that it is performing, or is about to perform, any action that is dangerous or hazardous to people or equipment. No robot is allowed to use any flammable, combustible, explosive or potentially dangerous processes.
+
+h3. Banners and Posters
+
+Appropriate team banners and posters are permitted and may be displayed only in your assigned work area.
+
+h3(#Disqualification). Disqualification
+
+Any robot deemed to be able to do damage to arena and or obstacles will be disqualified.
+
+Any robot placing markings of any kind, whether on floor or obstacles will be disqualified.
+
+Any suspicion of remote control of robot by a team will cause that entry to be disqualified.
+
+h3. Challenges of Judge's Rulings
+
+The Chief Judge is the final and absolute authority on the interpretation of all rules and decisions. Any contestant who wishes to challenge any ruling or scoring of an arena judge will bring it to the attention to the Chief Judge and must do so before they leave the arena area. The Chief Judge will then arbitrate the matter. Once the contestants have left the arena they may not appeal any decision or scoring of the Arena Judges.
+
+h3. Interpreting the Rules
+
+Prior to the competition, there will be a "forum":teams.html established for team members to post questions and for clarifications on any of the rules for this competition. During the competition, any issues not covered by these written rules, will be taken up by the Judging Committee whose decisions will be final.
+
+* "Create_Open_Interface_v2.pdf":files/Create_Open_Interface_v2.pdf
+* "Robot_Maze_Publish1.pdf":files/Robot_Maze_Publish1.pdf
