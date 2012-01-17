@@ -1,0 +1,41 @@
+---
+layout: default
+title: Judges
+---
+
+h2. {{ page.title }}
+
+h4. Become a Judge
+
+We are still looking for a few good citizens to be judges at the iARoC. Please read on and if you are interested send us an email at "info AT iaroc DOT com".
+
+h4. Responsibilities
+
+Each judge will be responsible for scoring each team in all areas of the competition, as described below in more detail. An average of the scores will be computed to determine the first, second and third place or each area. In the event of equivalent scores the judges will vote to break the tie.
+
+h4. Technical Presentation
+
+This consists of the static display as well as conversational interaction with the team. This will focus on the software development methodology the team has chosen to create the software used by the robot. There is also a spot for hardware technical challenges the team may have had to overcome. Total Points Possible: 200
+
+h4. Criteria
+
+# Explanation of architecture: 50
+# Algorithms used: 50
+# Adherence to a software development methodology: 25
+## Example: Test Driven Development
+# Artifacts supporting Capability Maturity Model Integration (CMMI): 25
+## Example Unit Tests
+# Hardware Choices and Rational: 50
+# Urban Challenge
+
+h4. Gold Rush Challenge
+
+h4. Most Amazing
+
+h4. Overall Score
+
+h4. Schedule
+
+h4. Forums
+
+h4. Links
