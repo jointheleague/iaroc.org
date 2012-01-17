@@ -1,12 +1,55 @@
 ---
 layout: default
-title: My Website
 ---
 
-h2. {{ title }}
+h2. 5th Annual International Autonomous Robot Competition (iARoC), June 23 - June 24, 2012,  San Diego
 
-h3. Lorem ipsum sed aliquam
+h3. Prizes! Excitement!
 
-Etiam vehicula, augue eu ultricies dictum, orci nisi suscipit sem, nec sollicitudin neque est ac massa. Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat. Nulla lobortis bibendum magna. Nulla adipiscing justo eu erat.
+$1000 First Prize $500 Second Prize $250 Third Prize 
 
-Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat.
+h3. LOCATION: San Diego County Fairgrounds 
+
+h3. DATE AND TIME: June 23 - June 24, 2012
+
+* RoboCamp  Monday - Friday, June 18 - 22, 10:00 AM - 9:00 PM
+* iARoC            Saturday - Sunday,  June 23 and 24, 2012 - 9:00 AM - 5:00 PM 
+
+See "schedule":schedule.html for details.
+
+h3. Previous iARoC videos/photos:
+
+* "iARoC 2010 Photos":http://www.flickr.com/photos/27996561@N03/sets/72157624413359332/with/4757480285/
+* "iARoC 2009 Day 1 Photos":http://www.flickr.com/photos/27996561@N03/sets/72157620701946133/
+
+
+<figure>
+  <iframe width="420" height="315" src="http://www.youtube.com/embed/sDQyfdVQPnU" frameborder="0" allowfullscreen></iframe>
+  <figcaption>Team Rylex wins iARoC 2011</figcaption>
+</figure>
+
+<figure>
+  <iframe width="420" height="315" src="http://www.youtube.com/embed/96O7wPESrEU" frameborder="0" allowfullscreen></iframe>
+  <figcaption>iARoC 2010 Gold Rush Challenge</figcaption>
+</figure>
+
+<figure>
+  <iframe width="420" height="315" src="http://www.youtube.com/embed/3m0VN2ObfKk" frameborder="0" allowfullscreen></iframe>
+  <figcaption>iARoC Slide Show 2008</figcaption>
+</figure>
+
+<figure>
+  <iframe width="420" height="315" src="http://www.youtube.com/embed/uW3k7h3dxww" frameborder="0" allowfullscreen></iframe>
+  <figcaption>International Autonomous Robot Contest 2009 Promo</figcaption>
+</figure>
+
+<br clear="both" />
+
+h3. SPONSORS (Like to be a sponsor?)
+
+| !images/sponsors/Wintriss-header.jpg!:http://wintrisstech.org | !images/sponsors/FairLogo.jpg! |
+| !images/sponsors/CareFusionLogo.jpg! | !images/sponsors/Sdjug7.jpg!:http://www.sdjug.org |
+| !images/sponsors/ResMedLogo.jpg! | !images/sponsors/SUN-logo.png!:http://sun.com |
+| !images/sponsors/AsymtekLogoSmall.jpg! | !images/sponsors/Cognex-logo.jpg! |
+| !images/sponsors/Banner.jpg! | !images/sponsors/BREEZAIRE.jpg! |
+| !images/sponsors/CushWake.jpg! | |
