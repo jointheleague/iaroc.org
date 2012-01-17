@@ -1,0 +1,46 @@
+---
+layout: default
+title: Spectators
+---
+
+h2. {{ page.title }}
+
+h5. Is the event open to the general public?
+
+Yes, the general public is welcome to attend the event and admission to the iARoC event is free. There is an admission fee for the fair.
+
+h5. Are children allowed?
+
+Yes, children are allowed. Adult supervision is required for anyone under 18 years of age.
+
+h5. What should I wear to the event?
+
+Shorts and t-shirts are fine. Remember that being out in the sun all day can be an issue, bring sun screen.
+
+h5. Are there any restrictions I should be aware of?
+
+Since this is a public facility, please refrain from bringing the following:
+fireworks, firearms, alcohol, beach chairs. There will be a concession stands for your convenience onsite. It is also a good idea to bring a government issued photo ID such as a driver's license.
+
+h5. What will I see at the Competition site?
+
+You will see some very bright kids at work on autonomous robots. These robots are an important part of these kids education, but they are also for fun. Come and see how these kids "dress up" their robots. Additionally, we will have real commercial robots on display to show that there is not that far of a gap between what these kids are doing and what the industry is doing.
+
+h5. Are refreshments and concessions available?
+
+Yes, everything from breakfast to lunch meals and snacks will be available for purchase onsite from the Fair grounds themselves.
+
+h5. Are cameras allowed?
+
+Yes, cameras are allowed and encouraged. Children are also encouraged to bring autograph books. The students entered in this Competition will all be very famous someday and their autographs may be worth something :)
+
+h5. Where is the event located?
+
+The Competition will be held at the San Diego County Fairgrounds. See the map link below.
+
+* "2260 Jimmy Durante Blvd, Del Mar, CA 92014":http://maps.google.com/maps?f=q&hl=en&geocode=&time=&date=&ttype=&q=2260+Jimmy+Durante+Blvd,+Del+Mar,+CA+92014&sll=37.0625,-95.677068&sspn=89.278773,91.318359&ie=UTF8&z=17&iwloc=addr&om=1
+* "http://www.sdfair.com":http://www.sdfair.com/
+
+h5. Is parking available?
+
+There is plenty of parking at the fairground public parking lots.
