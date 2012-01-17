@@ -11,8 +11,25 @@ h3. Sun SPOT Create Interface API
 
 h4. Simple API
 
-* This version is derived from the latest iaroc API on Java.net with all debug and event driven logic removed.
-* See Team Reference sub pages (below) for listings.
+This version is derived from the latest iaroc API on Java.net with all debug and event driven logic removed.
+
+To get started with a Sun Microsystems/Oracle SPOT controller connected to an iRobot Create robot platform, make a SPOT application, using the four Java files below.  You will also need the latest SunSPOT SDK and the following plugins/imports.  The SunSPOT manager is a convenient way of making sure that your computer and sunSPOT have matching SDKs and firmware.  It is available from  available from www.sunspotworld.com .  Using NetBeans as an editor is convenient, because it has available plug-ins for the SPOT.
+
+<pre>
+import com.sun.spot.sensorboard.EDemoBoard;
+import com.sun.spot.sensorboard.io.IIOPin;
+import com.sun.spot.sensorboard.io.IInputPinListener;
+import com.sun.spot.sensorboard.io.PinDescriptor;
+import com.sun.spot.sensorboard.peripheral.ISwitch;
+import com.sun.spot.sensorboard.peripheral.ITriColorLED;
+import javax.microedition.midlet.MIDlet;
+import javax.microedition.midlet.MIDletStateChangeException;
+</pre>
+
+* "Roomba.java":files/Roomba.java
+* "RoombaConstants.java":files/RoombaConstants.java
+* "RoombaSerialConnection.java":files/RoombaSerialConnection.java
+* "StartApplication.java":files/StartApplication.java
 
 h4. Version 4.4
 
