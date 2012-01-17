@@ -1,0 +1,116 @@
+---
+layout: default
+title: Team Reference
+---
+
+h2. {{ page.title }}
+
+Welcome to my team page. As the team Captain I will be walking you through what the competition is all about from the team perspective. First and foremost it is about having fun with robotics! That said we'll get down to the nitty gritty. My team will be using Java as the programming language along with Sun SPOT and iRobot Create as the hardware. I'll be using NetBeans to put the software together and test it out on an emulator along with the real hardware, which should be fun when I get the robot to do stuff. You can download the SunSPOT software from SPOT Manager
+
+h3. Sun SPOT Create Interface API
+
+h4. Simple API
+
+* This version is derived from the latest iaroc API on Java.net with all debug and event driven logic removed.
+* See Team Reference sub pages (below) for listings.
+
+h4. Version 4.4
+
+* "Iaroc-sunspot-irobot-v4.4.zip":files/Iaroc-sunspot-irobot-v4.4.zip
+* fixed name of starwarsintro project in NetBeans
+** MUST read instructions from 4.0 when upgrading to this version
+** This package contains all you need to have the new API, no need to also download v4.0
+* added a new utility class called KeyedStorage
+** provides persistent storage for keyed Strings or byte arrays
+** manages the persistence store for you
+** data will be kept between different runs of your program
+** See following links for more info on persistent storage
+*** "http://developers.sun.com/mobility/midp/articles/persist/":http://developers.sun.com/mobility/midp/articles/persist/
+*** "http://www-128.ibm.com/developerworks/library/wi-rms/":http://www-128.ibm.com/developerworks/library/wi-rms/
+** updated javadoc for all of the sample project classes.
+
+h4. Version 4.3
+
+* "Iaroc-sunspot-irobot-v4.3.zip":files/Iaroc-sunspot-irobot-v4.3.zip
+** MUST Upgrade to this if you upgraded to 4.0
+** MUST read instructions from 4.0 when upgrading to this version
+* fixed song command
+* added a new sample project, plays a tune
+
+h4. Version 4.2
+
+* "Iaroc-sunspot-irobot-v4.2.zip":files/Iaroc-sunspot-irobot-v4.2.zip
+** MUST Upgrade to this if you upgraded to 4.0
+** MUST read instructions from 4.0 when upgrading to this version
+* Found the actual proper fix to making the baud rate change on Create work
+* This release should find the serial communication between the SPOT and the Create pretty solid
+* synchronized all public API calls of IRobotCreate in order to help make code thread sage
+
+h4. Version 4.0
+
+* "Iaroc-sunspot-irobot-v4.zip":files/Iaroc-sunspot-irobot-v4.zip
+** NOTE: You MUST upgrade to blue-080609 BEFORE wanting to use this API, as there are some serious bugs fixed, as well as semantic changes which will prevent the previous versions of the API to run.
+** NOTE: Also, the API now waits for the play button to be pressed on Create before doing anything. This ensures that communication between SPOT and Create are working properly. The LED next to the play button will blink. It will likely beep shortly as well. If you dont like this feature let me know, I can make it optional if need be.
+* Code is also in a Subversion repository at "https://iaroc-sunspot-irobot.dev.java.net/":https://iaroc-sunspot-irobot.dev.java.net/
+
+This is the latest API, its not 100% perfect yet, it seems to still not always connect to the Create, but I will get to the bottom of it tomorrow. Publishing now as people are upgrading their Sun SPOT SDK to the latest blue release.
+
+* remove com.iaroc.irobot.util.TestReporter class and moved the guts of it into sample MIDlets
+* waits for play button to be pressed before connection will complete
+* put the source code into a SubVersion repository as a project on java.net ("https://iaroc-sunspot-irobot.dev.java.net/":https://iaroc-sunspot-irobot.dev.java.net/)
+
+h4. Version 3.0
+
+* "Iaroc-irobot-projects_2.zip":files/Iaroc-irobot-projects_2.zip
+* removed the IRobotCreateConstants.DEBUG and DEBUG_SERIAL constants
+** replaced with setDebug api on create and serial connection, matching the event handler setDebug api
+* moved all of the test MIDlets into their own projects
+* now zip file containts 10 projects, which can be loaded into NetBeans and Eclipse
+** api - The core iRobot Create API
+** sample - Project intended to be copied to create your new project
+** blinkleds - Blink the leds on the top of the create a few times
+** bumps - When right or left bumper is triggered, the LED on corresponding left or right is turned off
+** driveandsensors - Drive forward, if either bump is triggered, turn the opposite way to try and get away
+** makesquare - make a simple square shape
+** sensors - application that will keep the create stationary and report any change to any sensor
+** whiteline - a simple whiteline follower, it should really be called Foil Tape follower, as this is the only kind of "white" line I could get the cliff signals on create to work consistently
+** whitelinelevels - test application that will put out front left cliff signal values
+** test-serial - a test program we use to test certain serial communication issues
+* moved XLights into com.iaroc.irobot.util package
+
+h4. Version 2.0
+
+Start from <tt>com.iaroc.irobot.test.TestSensorsMIDlet</tt>, which is the one that is specified to be run by default in the resources/META_INF/manifest.mf file.
+
+The other class to look at, <tt>com.iaroc.irobot.test.TestDriveAndSensorsMIDlet</tt>, shows an example of the robot driving and changing its behavior based on sensor input.
+
+There is still a question about how the thread for reading sensors will be handled, as I ran into an issue whereby if we dont read the sensors coming from the Create every 15ms, we run into problems. We can't guarantee to be able to read the data every 15ms, so need to figure out what we can do here.
+
+"Iaroc-irobot-sunspot-api.zip":files/Iaroc-irobot-sunspot-api.zip
+
+Change History
+
+* renamed packages from com.wintrisstech.iaroc.irobot to com.iaroc.irobot
+* removed separation from non SPOT specific code to SPOT specific code, the entire code base now assumes Sun SPOT
+* renamed IRobotCreateInterface to IRobotCreate
+* IRobotCreateInterfaceTest class has been broken out into multiple sample Test*MIDlet classes
+* XLights and TemplateMIDlet have been moved into core package
+* only have 2 packages now
+** com.iaroc.irobot
+** com.iaroc.irobot.test
+* modified the manifest.mf file to contain all the new MIDlets defined
+** the MIDlet that runs is the sensor one that simply prints all the events occurring on create
+
+h4. Version 1.0
+
+There are holes in the API, but you can drive and get sensor values. There is a sample MIDlet this project comes with that will read sensor values from Create and output them on console. There is currently no documentation, however the names of all the sensors and commands match the ones found in the "Create Open Interface" documentation, so a fair amount of information can be drawn from there.
+
+The main class is <tt>com.wintrisstech.iaroc.sunspot.test.TestMIDlet</tt>
+
+"IARoC_API.zip":files/IARoC_API.zip
+
+Change History
+
+* Removed the IRobotCreateSensorState class and rolled the sensor state into the IRobotCreateInterface class
+* Renamed all methods that access sensor state to use get* and is* naming convention
+
