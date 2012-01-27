@@ -27,5 +27,5 @@ h4. Entry
 
 An entry is defined as a team captain and robot pair entered into a "division":about.html. There are no restrictions as to who can enter a robot. A single team with a single robot, can only be considered as a single entry. There is no limit on team size. There will be a maximum of 20 entries allowed, as this is the maximum number of entries we can accommodate with the amount of time available. Entries will be posted on the "forum":teams.html as they sign up.
 
-* "2011 iARoC Flyer (pdf)":files/2011_iARoc_Flyer_outlines_Rev1.pdf
+* "2012 iARoC Flyer (pdf)":files/2012\20iARoc_Flyer_outlines_sm.pdf
 * "2012 Entry Form (pdf)":files/EntryForm2012.pdf
