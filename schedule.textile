@@ -1,7 +1,4 @@
----
-layout: default
-title: Schedule
----
+
 
 h2. Schedule
 
