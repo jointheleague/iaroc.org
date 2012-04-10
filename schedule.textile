@@ -22,18 +22,11 @@ A Robo Camp will be held with extended hours for the entire week prior to the co
 h3. Friday, June 22, 2012 - Setup and drop off
 
 * This day is only for the competition organizers to drop off materials and start setup
-* Enter via Solana Gate with pre-approved passes
-* 07:30 Vehicles line up for entry
-* 08:00 Service gates open, drive to infield
 * 08:00-09:00 Unload material and supplies into storage area
-* 09:15 Must be out of fair grounds
-* 20:00 *RoboCamp Ends*
-* 20:00 Pack up maze materials and load into vehicles for delivery to Fair Grounds
+* 20:00 *RoboCamp Ends
 
 h3. Saturday June 23, 2012 - Day 1
 
-* 07:30 Organizers line up for entry
-* 08:00 Organizers enter service entrance Solana Gate
 * 08:00-10:00 Organizers finalize setup of robot arena/maze
 * 09:00 Judges arrive to assist in setup.
 * *Doors will be open from 10:00-17:00*
@@ -41,12 +34,9 @@ h3. Saturday June 23, 2012 - Day 1
 * *11:00-11:15 Welcome to the competition session*
 * *11:15-17:00 Team setup time and debug runs*
 * *13:00-17:00 "Technical Presentations":rules.html#tech_pres*
-* *17:00 Teams prepare to exit fair grounds*
 
 h3. Sunday June 24, 2012 - Day 2
 
-* 07:30 Organizers line up for entry
-* 08:00 Organizers enter service entrance Solana Gate
 * 08:00-10:00 Organizers prepare for day
 * 09:00 Judges arrive to assist in setup.
 * *Doors will be open from 10:00-17:00*
@@ -58,13 +48,5 @@ h3. Sunday June 24, 2012 - Day 2
 * 16:00-16:30 Judges finalize evaluations
 * *16:30-17:00 Awards Ceremony*
 * *17:00 Teams finalize their work area tear down and exit*
-* 17:00 Organizers finalize tear down of robot arena and move all material to storage area
 
-h3. Monday June 25, 2012 - Removal of supplies
 
-* *This day is only for the competition organizers to pick up materials*
-* Enter via Solana Gate with pre-approved passes
-* 07:30 Vehicles line up for entry
-* 08:00 Service gates open, drive to infield
-* 8:00-09:00 Retrieve supplies from storage area and load up vehicles
-* 09:15 Must be out of fair grounds.
