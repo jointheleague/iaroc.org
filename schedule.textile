@@ -1,6 +1,5 @@
 
-
-h2. Schedule
+h2. {{page.title}}
 
 The competition will be held over two days, with different events occurring on both days. The first day will be for the "Teams":teams.html to setup, get their robots ready, do as many trial runs as they can, and to do a technical presentation in front of the judges.
 
