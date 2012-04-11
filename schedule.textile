@@ -1,3 +1,7 @@
+---
+Layout: default
+title: Schedule
+---
 
 h2. {{page.title}}
 
