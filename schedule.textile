@@ -1,5 +1,5 @@
 ---
-Layout: default
+layout: default
 title: Schedule
 ---
 
