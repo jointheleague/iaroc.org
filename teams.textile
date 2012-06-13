@@ -5,20 +5,24 @@ title: Teams
 
 h2. iARoC 2011 Teams
 
-As of January, 2012, the following teams have indicated that they intend to participate:
+Sixteen teams will be participating in iARoC 2012:
 
 * Team Preuss School
-* Team Rylex
+* Team Rylex 3.14
 * Team Skating Monkeys
-* Team Roombastic
+* Team Jack
 * Team Hawk
-* Team THE MOST studmuffin
-* Team Ninja Squirrel
+* Team Ninja Turtle
 * Team Alien Pickles
-* Team C2C (CareFusion adult demo team)
 * Team NortherNerds
-* Team WestView
-* Team Gunn
+* Team WestView Robotics
+* Team GunnCS
+* Team Brainstorm
+* Team The Bumpers
+* Team Tierra del Sol
+* Team Captain SculleySwag
+* Team Shwayze
+* Team M & M
 
 h3. Team Captain
 
