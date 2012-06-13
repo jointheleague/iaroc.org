@@ -23,7 +23,7 @@ h3. Friday, June 22, 2012 - Setup and drop off
 
 * This day is only for the competition organizers to drop off materials and start setup
 * 05:00-09:00 PM Unload material and supplies into storage area
-* 17:00 *RoboCamp Ends
+* 17:00 RoboCamp Ends
 
 h3. Saturday June 23, 2012 - Day 1
 
