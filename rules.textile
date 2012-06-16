@@ -84,7 +84,7 @@ Each entry will be provided with 20 minutes within which to achieve the best tim
 
 h4(#urban_bonus). Urban BONUS
 
-400 Bonus points will be awarded to each team during the competition if their robot navigates the one correct path through the maze, from start to finish, non-stop *and the robot determined this path on its own without the path being programmed into it by the team during the competition.* The one correct path through the maze means that the robot will not take any dead end corridors. A robot's path will be judged by 50% of its body length after an intersection; so if you take a turn down a corridor it is deemed that the robot took that corridor if 50% of its body length has crossed the line of the intersection. Your robot must do this during the Urban Challenge Time Limits of the competition.
+500 Bonus points will be awarded to each team during the competition if their robot navigates the one correct path through the maze, from start to finish, non-stop *and the robot determined this path on its own without the path being programmed into it by the team during the competition.* The one correct path through the maze means that the robot will not take any dead end corridors. A robot's path will be judged by 50% of its body length after an intersection; so if you take a turn down a corridor it is deemed that the robot took that corridor if 50% of its body length has crossed the line of the intersection. Your robot must do this during the Urban Challenge Time Limits of the competition.
 
 We want to reward teams for their hard work in programming a robot that can actually solve the maze and then have the robot run that solution.
 
