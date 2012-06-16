@@ -47,8 +47,6 @@ h5. Time Limits
 
 The maximum amount of time for the Technical Presentation will be 15 minutes. There will be a maximum of 5 minutes of questions by the Judges. The team must make way for the next team immediately.
 
-We may start the presentations earlier than 13:00 to facilitate a less hectic presentation. We have 11 teams and must be done by 17:00.
-
 h4(#drag_race). Drag Race
 
 In conjunction with the Technical Presentations one lane of the maze will be set aside for a friendly speed test. Each team will race against another team. In case of an odd number of teams one team will race by themselves. There will be only one drag race per team. The time will be recorded for each team. The award of points will go the the 3 teams with the fastest time. A robot must cross the finish line to have its time recorded. The time slot for the race is determined during registration when the Technical Presentation time is selected.
