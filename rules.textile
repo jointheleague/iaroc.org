@@ -25,11 +25,13 @@ Winners for each division will be determined based on points earned by the succe
 
 The points for completing each task will be as follows
 
-|_. Task |_. 1st Place |_. 2nd Place |_. 3rd Place |_. Successful Completion|
-| "Technical presentation":#tech_pres | 200 | 150 | 100 | 50|
-| "Urban Challenge":#urban | 600 | 500 | 400 | 300|
-| "Urban BONUS":#urban_bonus |  |  |  | 400|
-| "Gold Rush Challenge":#gold_rush | 200 | 150 | 100 | 50|
+|_. Task |_. 1st Place |_. 2nd Place |_. 3rd Place |_. Bonus |_. Successful Completion |_. Participation|
+| "Technical presentation":#tech_pres | 200 | 150 | 100 | - | - | 50|
+| "Drag Race" | 100 | 75 | 50 | - | - | 25|
+| "Crowd Pleaser" | - | - | - | - | - | 100|
+| "Urban Challenge":#urban | 600 | 500 | 400 | - | 300 | - |
+| "Urban BONUS":#urban_bonus | - | - | - | 500 | - | - |
+| "Gold Rush Challenge":#gold_rush | 200 | 150 | 100 | - | - | 50|
 
 The sum of points achieved for each task will be used to determine the overall winner of each division.
 
