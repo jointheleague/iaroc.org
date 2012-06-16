@@ -17,18 +17,14 @@ h3. Points
 
 Currently under review by the Judging Committee
 
-Winners for each division will be determined based on points earned by the successful completion of the following tasks
-
-# Technical Presentation
-# Urban Challenge
-# Gold Rush Challenge
+Winners will be determined based on points earned by the successful completion of the tasks listed int the table below. 
 
 The points for completing each task will be as follows
 
 |_. Task |_. 1st Place |_. 2nd Place |_. 3rd Place |_. Bonus |_. Successful Completion |_. Participation|
 | "Technical presentation":#tech_pres | 200 | 150 | 100 | - | - | 50|
-| "Drag Race" | 100 | 75 | 50 | - | - | 25|
-| "Crowd Pleaser" | - | - | - | - | - | 100|
+| "Drag Race":#drag_race | 100 | 75 | 50 | - | - | 25|
+| "Crowd Pleaser":#crowd_pleaser | - | - | - | - | - | 100|
 | "Urban Challenge":#urban | 600 | 500 | 400 | - | 300 | - |
 | "Urban BONUS":#urban_bonus | - | - | - | 500 | - | - |
 | "Gold Rush Challenge":#gold_rush | 200 | 150 | 100 | - | - | 50|
@@ -45,13 +41,21 @@ We expect the presentation to cover the overall choice of hardware and the relat
 
 h5. The Order of Running
 
-Order of technical presentation will be based on the reverse ordering achieved on signing up for a test run. That is, the last entry to have a test run time slot, will be the first entry to have to do their Technical Presentation task.
+Order of technical presentation will be based on signing up during registration. The ordering for the trial runs and the Drag Race will be based upon the time slot selected for the Technical Presentation.
 
 h5. Time Limits
 
 The maximum amount of time for the Technical Presentation will be 15 minutes. There will be a maximum of 5 minutes of questions by the Judges. The team must make way for the next team immediately.
 
 We may start the presentations earlier than 13:00 to facilitate a less hectic presentation. We have 11 teams and must be done by 17:00.
+
+h4(#drag_race). Drag Race
+
+In conjunction with the Technical Presentations one lane of the maze will be set aside for a friendly speed test. Each team will race against another team. In case of an odd number of teams one team will race by themselves. There will be only one drag race per team. The time will be recorded for each team. The award of points will go the the 3 teams with the fastest time. A robot must cross the finish line to have its time recorded. The time slot for the race is determined during registration when the Technical Presentation time is selected.
+
+h4(#crowd_pleaser). Crowd Pleaser
+
+During both days of the competition teams will have the opportunity to showcase their robot to the general public. The team will need to spend at least 30 minutes demonstrating and talking to the public to receive points for the showcase. These informal presentations will be conducted at tables located near the doorway to the Science Center. Teams must let a judge know that the team has made their robot available for viewing and procure a judges signature.  Quality of presentation will not be graded but points will be awarded as indicated in the table above. There is no scheduled time for the showcase and teams will schedule themselves at their convenience.
 
 h4(#urban). Urban Challenge
 
