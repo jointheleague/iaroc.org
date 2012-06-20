@@ -53,7 +53,7 @@ In conjunction with the Technical Presentations one lane of the maze will be set
 
 h4(#crowd_pleaser). Crowd Pleaser
 
-During both days of the competition teams will have the opportunity to showcase their robot to the general public. The team will need to spend at least 30 minutes demonstrating and talking to the public to receive points for the showcase. These informal presentations will be conducted at tables located near the doorway to the Science Center. Teams must let a judge know that the team has made their robot available for viewing and procure a judges signature.  The quality of the presentation will not be graded but points will be awarded as indicated in the table above. There is no scheduled time for the showcase and teams will schedule themselves at their convenience.
+During both days of the competition teams will have the opportunity to showcase their robot to the general public. The team will need to spend at least 30 minutes demonstrating and talking to the public to receive points for the showcase. These informal presentations will be conducted at tables located near the doorway to the Science Center. Teams must let a judge know that the team has made their robot available for viewing and procure a judges signature.  The quality of the presentation will not be graded but points will be awarded as indicated in the table above. There is no scheduled time for the showcase and teams will schedule themselves at their convenience. Teams will receive only 1 bonus for the Crowd Pleaser even if the team makes multiple presentations.
 
 h4(#urban). Urban Challenge
 
