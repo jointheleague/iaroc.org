@@ -49,7 +49,7 @@ The maximum amount of time for the Technical Presentation will be 15 minutes. Th
 
 h4(#drag_race). Drag Race
 
-In conjunction with the Technical Presentations one lane of the maze will be set aside for a friendly speed test. Each team will race against another team. In case of an odd number of teams one team will race by themselves. There will be only one drag race per team. The time will be recorded for each team. The award of points will go the the 3 teams with the fastest time. A robot must cross the finish line to have its time recorded. The time slot for the race is determined during registration when the Technical Presentation time is selected.
+In conjunction with the Technical Presentations, one lane of the maze will be set aside for a friendly speed test. Teams will be paired and run through a double elimination format. Each team will race against another team and the winning team will continue on in the primary bracket; the team that does not win will be placed into a consolation bracket. Teams will continue to compete until they have lost twice.  The award of points will go to the top 3 teams. A robot must cross the finish line to have its time recorded or will be counted as a lost. The time slot for the initial race is determined during registration when the Technical Presentation time is selected.
 
 h4(#crowd_pleaser). Crowd Pleaser
 
