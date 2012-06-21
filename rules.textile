@@ -29,13 +29,13 @@ The points for completing each task will be as follows
 | "Urban BONUS":#urban_bonus | - | - | - | 500 | - | - |
 | "Gold Rush Challenge":#gold_rush | 200 | 150 | 100 | - | - | 50|
 
-The sum of points achieved for each task will be used to determine the overall winner of each division.
+The sum of points achieved for each task will be used to determine the overall winner.
 
 h3. Tasks
 
 h4(#tech_pres). Technical Presentation
 
-During day 1 of the competition, each team is required to present to a panel of Judges. A common table will be provided where the team can set up their presentation. Judges are expecting a technical presentation explaining the details of the software and hardware engineering details of the team's particular robot. Presentations can include poster boards and other aids, but will mostly be comprised of the team orally explaining how their robot functions. PowerPoint presentations are acceptable but remember projectors will not work in the tent so have a large screen with you. We may be able to provide a large screen, 40 inches, but I can not guarantee this.
+During day 1 of the competition, each team is required to present to a panel of Judges. A common table will be provided where the team can set up their presentation. Judges are expecting a technical presentation explaining the details of the software and hardware engineering details of the team's particular robot. Presentations can include poster boards and other aids, but will mostly be comprised of the team orally explaining how their robot functions. PowerPoint presentations are acceptable as there is a built in projector system.
 
 We expect the presentation to cover the overall choice of hardware and the relationship between the hardware and the software. Explain the algorithm used to facilitate a winning robot for the Urban Challenge and for the Gold Rush Challenge. You want to convince the Judges that your team has the most capable software to solve each Challenge. *If the team strategy is to have the robot stop at each decision point and be retrieved by the team in order to program a turn and estimated distance then the judges will take into account that the robot is NOT learning nor autonomous.*
 
