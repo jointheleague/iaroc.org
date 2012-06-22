@@ -27,26 +27,27 @@ h3. Friday, June 22, 2012 - Setup and drop off
 
 h3. Saturday June 23, 2012 - Day 1
 
-* 08:00-10:00 Organizers finalize setup of robot arena/maze
-* 09:00 Judges arrive to assist in setup.
-* *Doors will be open from 10:00-17:00*
-* *10:00-11:00 Sign in, setup work area*
-* *11:00-11:15 Welcome to the competition session*
-* *11:15-17:00 Team setup time and debug runs*
-* *13:00-17:00 "Technical Presentations":rules.html#tech_pres*
+* 07:00-09:00 Organizers finalize setup of robot arena/maze
+* 08:30 Judges arrive to assist in setup.
+* *Doors will be open from 09:00-17:00*
+* *09:00-10:00 Sign in, setup work area*
+* *10:00-10:15 Welcome to the competition session*
+* *11:00-18:00 Team setup time and debug runs*
+* *11:00-18:00 "Technical Presentations":rules.html#tech_pres*
+* *11:00-18:00 "Drag Races":rules.html#drag_race*
 
 h3. Sunday June 24, 2012 - Day 2
 
-* 08:00-10:00 Organizers prepare for day
-* 09:00 Judges arrive to assist in setup.
-* *Doors will be open from 10:00-17:00*
-* *10:00-10:30 Recap from previous day, last minute updates*
-* *10:30-14:00 "Urban Challenge":rules.html#urban*
+* 08:00-09:30 Organizers prepare for day
+* 08:30 Judges arrive to assist in setup.
+* *Doors will be open from 09:00-17:00*
+* *09:30-10:00 Recap from previous day, last minute updates*
+* *10:00-14:00 "Urban Challenge":rules.html#urban*
 * 14:00-15:00 Organizers prepare robot arena for Gold Rush Challenge
 * *14:00-15:00 Teams prepare for Gold Rush Challenge*
-* *15:00-16:00 "Gold Rush Challenge":rules.html#gold_rush*
-* 16:00-16:30 Judges finalize evaluations
-* *16:30-17:00 Awards Ceremony*
+* *15:00-15:30 "Gold Rush Challenge":rules.html#gold_rush*
+* 15:30-16:00 Judges finalize evaluations
+* *16:00-16:30 Awards Ceremony*
 * *17:00 Teams finalize their work area tear down and exit*
 
 
