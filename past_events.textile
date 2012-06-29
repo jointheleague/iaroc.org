@@ -1,0 +1,11 @@
+---
+layout: default
+title: Past Events
+---
+
+h2. {{ page.title }}
+
+h3. iARoC 2012 Results
+
+| Team | Urban challenge | Gold Rush | Technical Presentation |
+| Team #1 | TDB | TDB | TDB |
