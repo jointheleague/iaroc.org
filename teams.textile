@@ -3,21 +3,22 @@ layout: default
 title: Teams
 ---
 
-h2. iARoC 2011 Teams
+h2. iARoC 2012 Teams
 
-Sixteen teams will be participating in iARoC 2012:
+Seventeen teams participated in iARoC 2012, iARoC 2013 will be limited to 20 teams:
 
 * Team Preuss School
 * Team Rylex 3.14
 * Team Skating Monkeys
 * Team Jack
 * Team Hawk
-* Team Ninja Turtle
+* Team Ninja Turtles
 * Team Alien Pickles
 * Team NortherNerds
 * Team WestView Robotics
 * Team GunnCS
-* Team Brainstorm
+* Team Brainstorm Brainiacs
+* Team Brainstorm Bashers
 * Team The Bumpers
 * Team Tierra del Sol
 * Team Captain SculleySwag
