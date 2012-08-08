@@ -3,7 +3,7 @@ layout: default
 title: International Autonomous Robot Competition
 ---
 
-h2. 5th Annual International Autonomous Robot Competition (iARoC)
+h2. 6th Annual International Autonomous Robot Competition (iARoC)
 
 h3. Prizes! Excitement!
 
@@ -11,10 +11,10 @@ $1000 First Prize $500 Second Prize $250 Third Prize
 
 h3. LOCATION: Reuben H. Fleet Science Center at Balboa Park, San Diego 
 
-h3. DATE AND TIME: June 23 - June 24, 2012
+h3. DATE AND TIME: June 29 - June 30, 2013
 
-* RoboCamp  Monday&ndash;Friday, June 18&ndash;22, 10:00 AM&ndash;9:00 PM (5:00 PM on Friday)
-* iARoC            Saturday&ndash;Sunday,  June 23&ndash;24, 9:00 AM&ndash;5:00 PM 
+* RoboCamp  Monday&ndash;Friday, June 24&ndash;28, 10:00 AM&ndash;9:00 PM (5:00 PM on Friday)
+* iARoC            Saturday&ndash;Sunday,  June 28&ndash;29, 9:00 AM&ndash;5:00 PM 
 
 See "schedule":schedule.html for details.
 
