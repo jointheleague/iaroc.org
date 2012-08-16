@@ -29,7 +29,7 @@ h3. Previous iARoC videos/photos:
 </figure>
 
 <figure>
-  <embed width="576" height="324" src="http://media.nbcsandiego.com/assets/pdk449/pdk/swf/flvPlayer.swf?pid=assYuDD43Hhe" flashvars="v=http%3A%2F%2Fwww.nbcsandiego.com%2Fi%2Fembed_new%2F%3Fcid%3D160742455&path=%2F/video"allowFullScreen="true" AllowScriptAccess="always" /> <p style="font-size:small">View more videos at: <a href="http://nbcsandiego.com/?__source=embedCode">http://nbcsandiego.com</a>.</p>
+  <embed width="576" height="324" src="http://media.nbcsandiego.com/assets/pdk449/pdk/swf/flvPlayer.swf?pid=assYuDD43Hhe" flashvars="v=http%3A%2F%2Fwww.nbcsandiego.com%2Fi%2Fembed_new%2F%3Fcid%3D160742455&path=%2F/video"allowFullScreen="true" AllowScriptAccess="always"/>
   <figcaption>iARoC spot on NBC 2012</figcaption>
 </figure>
 
