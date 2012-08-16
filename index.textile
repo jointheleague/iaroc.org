@@ -24,7 +24,7 @@ h3. Previous iARoC videos/photos:
 * "iARoC 2009 Day 1 Photos":http://www.flickr.com/photos/27996561@N03/sets/72157620701946133/
 
 <figure>
-  <iframe width="420" height="315" src="http://www.youtube.com/watch?v=PJuIJyLYbkk" frameborder="0" allowfullscreen></iframe>
+  <iframe width="420" height="315" src="http://www.youtube.com/embed/PJuIJyLYbkk" frameborder="0" allowfullscreen></iframe>
   <figcaption>iARoC spot on KUSI 2012</figcaption>
 </figure>
 
