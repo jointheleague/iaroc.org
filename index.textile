@@ -24,6 +24,11 @@ h3. Previous iARoC videos/photos:
 * "iARoC 2009 Day 1 Photos":http://www.flickr.com/photos/27996561@N03/sets/72157620701946133/
 
 <figure>
+  <iframe width="576" height="324" src="http://www.youtube.com/embed/XEIzYs9dfXM" frameborder="0" allowfullscreen></iframe>
+  <figcaption>iARoC 2012</figcaption>
+</figure>
+
+<figure>
   <iframe width="420" height="315" src="http://www.youtube.com/embed/PJuIJyLYbkk" frameborder="0" allowfullscreen></iframe>
   <figcaption>iARoC spot on KUSI 2012</figcaption>
 </figure>
@@ -41,16 +46,6 @@ h3. Previous iARoC videos/photos:
 <figure>
   <iframe width="420" height="315" src="http://www.youtube.com/embed/96O7wPESrEU" frameborder="0" allowfullscreen></iframe>
   <figcaption>iARoC 2010 Gold Rush Challenge</figcaption>
-</figure>
-
-<figure>
-  <iframe width="420" height="315" src="http://www.youtube.com/embed/3m0VN2ObfKk" frameborder="0" allowfullscreen></iframe>
-  <figcaption>iARoC Slide Show 2008</figcaption>
-</figure>
-
-<figure>
-  <iframe width="420" height="315" src="http://www.youtube.com/embed/uW3k7h3dxww" frameborder="0" allowfullscreen></iframe>
-  <figcaption>International Autonomous Robot Contest 2009 Promo</figcaption>
 </figure>
 
 <br clear="both" />
