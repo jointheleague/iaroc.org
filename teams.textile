@@ -5,7 +5,7 @@ title: Teams
 
 h2. iARoC 2013 Teams
 
-Seventeen teams participated in iARoC 2012...20 team limit for 2013.
+Seventeen teams participated in iARoC 2012...20 team limit for 2013:
 
 * Team Preuss School**
 * Team Rylex 3.14++
