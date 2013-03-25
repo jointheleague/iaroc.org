@@ -27,6 +27,7 @@ Seventeen teams participated in iARoC 2012...20 team limit for 2013:
 * Team Greenfield++
 
  %% plan on entering iARoC 2013
+
  ++ iRoC 2013 registration and fees received
 
 h3. Team Captain
