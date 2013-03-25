@@ -28,10 +28,6 @@ Seventeen teams participated in iARoC 2012...20 team limit for 2013:
 
  ++ iRoC 2013 registration and fees received
 
-  plan on entering iARoC 2013
-
-
-
 h3. Team Captain
 
 Each team will be required to elect a team captain. This is the individual who will be responsible for all coordination with the iARoC organization.
