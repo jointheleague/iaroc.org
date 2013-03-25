@@ -9,7 +9,7 @@ Seventeen teams participated in iARoC 2012...20 team limit for 2013:
 
 * Team Preuss School
 * Team Rylex 3.14++
-* Team Skating Monkeys
+* Team Skating Monkeys++
 * Team Jack++
 * Team Hawk
 * Team Ninja Turtles
