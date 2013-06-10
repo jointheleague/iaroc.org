@@ -17,9 +17,12 @@ h3. Donate Online
 
 {% include paypal.html %}
 
-h3. Platinum Sponsor
+h3. 2013 Sponsors
 
-h3. Gold Sponsor
-
-h3. Honorable Sponsor
-
+* CareFusion
+* Johnson CreativeSolutions
+* Nuts and Volts Magazine
+* Servo Magazine
+* Automation Direct
+* VAS Engineering
+* Outsource Manufacturing
