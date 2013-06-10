@@ -7,14 +7,14 @@ h2. 6th Annual International Autonomous Robot Competition (iARoC)
 
 h3. Prizes! Excitement!
 
-$1000 First Prize $500 Second Prize $250 Third Prize 
+$1000 First Prize $500 Second Prize $250 Third Prize
 
-h3. LOCATION: Reuben H. Fleet Science Center at Balboa Park, San Diego 
+h3. LOCATION: Reuben H. Fleet Science Center at Balboa Park, San Diego
 
 h3. DATE AND TIME: June 29 - June 30, 2013
 
 * RoboCamp  Monday&ndash;Friday, June 24&ndash;28, 10:00 AM&ndash;9:00 PM (5:00 PM on Friday)
-* iARoC            Saturday&ndash;Sunday,  June 28&ndash;29, 9:00 AM&ndash;5:00 PM 
+* iARoC            Saturday&ndash;Sunday,  June 28&ndash;29, 9:00 AM&ndash;5:00 PM
 
 See "schedule":schedule.html for details.
 
@@ -47,14 +47,3 @@ h3. Previous iARoC videos/photos:
   <iframe width="420" height="315" src="http://www.youtube.com/embed/96O7wPESrEU" frameborder="0" allowfullscreen></iframe>
   <figcaption>iARoC 2010 Gold Rush Challenge</figcaption>
 </figure>
-
-<br clear="both" />
-
-h3. SPONSORS (Like to be a sponsor?)
-
-| !images/sponsors/Wintriss-header.jpg!:http://wintrisstech.org | !images/sponsors/FairLogo.jpg! |
-| !images/sponsors/CareFusionLogo.jpg! | !images/sponsors/Sdjug7.jpg!:http://www.sdjug.org |
-| !images/sponsors/ResMedLogo.jpg! | !images/sponsors/SUN-logo.png!:http://sun.com |
-| !images/sponsors/AsymtekLogoSmall.jpg! | !images/sponsors/Cognex-logo.jpg! |
-| !images/sponsors/Banner.jpg! | !images/sponsors/BREEZAIRE.jpg! |
-| !images/sponsors/CushWake.jpg! | |
