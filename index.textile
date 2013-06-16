@@ -13,7 +13,7 @@ h3. LOCATION: Reuben H. Fleet Science Center at Balboa Park, San Diego
 
 h3. DATE AND TIME: June 29 - June 30, 2013
 
-* RoboCamp  Monday&ndash;Friday, June 24&ndash;28, 10:00 AM&ndash;9:00 PM (5:00 PM on Friday)
+* RoboCamp  Monday&ndash;Friday, June 24&ndash;28, 1:00 PM&ndash;8:00 PM (5:00 PM on Friday)
 * iARoC            Saturday&ndash;Sunday,  June 28&ndash;29, 9:00 AM&ndash;5:00 PM
 
 See "schedule":schedule.html for details.
