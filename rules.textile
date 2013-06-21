@@ -25,7 +25,7 @@ The points for completing each task will be as follows
 | "Technical presentation":#tech_pres | 200 | 150 | 100 | - | - | 50|
 | "Drag Race":#drag_race | 100 | 75 | 50 | - | - | 25|
 | "Crowd Pleaser":#crowd_pleaser | - | - | - | - | - | 100|
-| "Urban Challenge":#urban | 600 | 500 | 400 | - | 300 | - |
+| "Mars Navigation Challenge":#mars | 600 | 500 | 400 | - | 300 | - |
 | "Urban BONUS":#urban_bonus | - | - | - | 500 | - | - |
 | "Gold Rush Challenge":#gold_rush | 200 | 150 | 100 | - | - | 50|
 
