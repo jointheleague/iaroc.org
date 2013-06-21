@@ -26,8 +26,8 @@ The points for completing each task will be as follows
 | "Drag Race":#drag_race | 100 | 75 | 50 | - | - | 25|
 | "Crowd Pleaser":#crowd_pleaser | - | - | - | - | - | 100|
 | "Mars Navigation Challenge":#mars | 600 | 500 | 400 | - | 300 | - |
-| "Urban BONUS":#urban_bonus | - | - | - | 500 | - | - |
-| "Gold Rush Challenge":#gold_rush | 200 | 150 | 100 | - | - | 50|
+| "Mars BONUS":#mars_bonus | - | - | - | 500 | - | - |
+| "Mars Beacon Run":#mars_beacon | 200 | 150 | 100 | - | - | 50|
 
 The sum of points achieved for each task will be used to determine the overall winner.
 
