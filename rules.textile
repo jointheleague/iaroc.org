@@ -9,7 +9,7 @@ All rules are subject to change at the discretion of the iARoC organization.
 
 h3. Overview
 
-The primary objective of this competition is to build an "autonomous robot":http://en.wikipedia.org/wiki/Autonomous_robot that can find its way through a set of fixed obstacles, locate an Infra-Red and visible home station beacon and activate a mechanical push-action switch at the home station. *Each team may use only 1 (one) robot for all challenges: Earth to Mars Speed Challenge, Mars Navigation Challenge and the Mars Beacon Run. No actuators, sensors, motors, wheels etc may be added or removed, in other words the configuration of the robot must be the same for all challenges*
+The primary objective of this competition is to program an "autonomous robot":http://en.wikipedia.org/wiki/Autonomous_robot that can find its way through a set of fixed obstacles, locate an Infra-Red and visible home station beacon and activate a mechanical push-action switch at the home station. *Each team may use only 1 (one) robot for all challenges: Earth to Mars Speed Challenge, Mars Navigation Challenge and the Mars Beacon Run. No actuators, sensors, motors, wheels etc may be added or removed, in other words the configuration of the robot must be the same for all challenges*
 
 *The maze materials will be white PVC piping, 3 inch diameter, and 2 foot lengths between joints. These dimensions are approximate.*
 
