@@ -13,18 +13,13 @@ h4. Responsibilities
 
 Each judge will be responsible for scoring each team in all areas of the competition, as described below in more detail. An average of the scores will be computed to determine the first, second and third place or each area. In the event of equivalent scores the judges will vote to break the tie.
 
-h4. Technical Presentation
+h4. Mars Mission Briefings
 
-This consists of the static display as well as conversational interaction with the team. This will focus on the software development methodology the team has chosen to create the software used by the robot. There is also a spot for hardware technical challenges the team may have had to overcome. Total Points Possible: 200
+This consists of the static display as well as conversational interaction with the team. This will focus on the software development methodology the team has chosen to create the software used by the robot. There is also a spot for hardware technical challenges the team may have had to overcome. 
 
-h4. Gold Rush Challenge
+h4. Earth to Mars Speed Challenge
 
-h4. Most Amazing
+h4. Mars Navigation Challenge
 
-h4. Overall Score
+h4. Mars Beacon Run
 
-h4. Schedule
-
-h4. Forums
-
-h4. Links
