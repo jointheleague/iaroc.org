@@ -33,8 +33,8 @@ h3. Saturday June 29, 2013 - Day 1
 * *09:00-10:00 Sign in, setup work area*
 * *10:00-10:15 Welcome to the competition session*
 * *11:00-17:30 Team setup time and debug runs*
-* *11:00-17:30 "Technical Presentations":rules.html#tech_pres*
-* *11:00-17:30 "Drag Races":rules.html#drag_race*
+* *11:00-17:30 "Mars Mission Briefings":rules.html#tech_pres*
+* *11:00-17:30 "Earth to Mars Speed Challenge":rules.html#drag_race*
 
 h3. Sunday June 30, 2013 - Day 2
 
@@ -42,12 +42,12 @@ h3. Sunday June 30, 2013 - Day 2
 * 08:30 Judges arrive to assist in setup.
 * *Doors will be open from 09:00-17:00*
 * *09:30-10:00 Recap from previous day, last minute updates*
-* *10:00-14:00 "Urban Challenge":rules.html#urban*
-* 14:00-15:00 Organizers prepare robot arena for Gold Rush Challenge
-* *14:00-15:00 Teams prepare for Gold Rush Challenge*
-* *15:00-15:30 "Gold Rush Challenge":rules.html#gold_rush*
-* 15:30-16:00 Judges finalize evaluations
+* *10:00-14:00 "Mars Navigation Challenge":rules.html#urban*
+* 14:00-15:00 Organizers prepare robot arena for Mars Beacon Run
+* 14:00-15:00 Teams prepare for Mars Beacon Run
+* *15:00-15:30 "Mars Beacon Run":rules.html#gold_rush*
+* *15:30-16:00 Pi Countdown!* / Judges finalize evaluations
 * *16:00-16:30 Prize Presentations*
-* *17:00 Teams finalize their work area tear down and exit*
+* 17:00 Teams finalize their work area tear down and exit
 
 
