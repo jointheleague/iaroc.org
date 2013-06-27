@@ -15,7 +15,7 @@ Each judge will be responsible for scoring each team in all areas of the competi
 
 h4. Mars Mission Briefing Judges
 
-The Mission Briefings may consist of the static display as well as conversational interaction with the team. The focus of the briefing should be on the software program the team has created which is used by the robot. Please see   for more information.
+The Mission Briefings may consist of the static display as well as conversational interaction with the team. The focus of the briefing should be on the software program the team has created which is used by the robot. Please see "Mars Mission Briefing":#tech_pres  for more information.
 
 There will be a panel of 5 judges for each mission briefing. It is preferable that the same 5 judges listen to all teams. Each team must present within the time allotted and there is a short amount of time for questions and answers. At present the format is up to the team, but it is anticipated as the judging criteria becomes widely known this may change for future competitions. A reminder, the intent of the competition is to have one autonomous robot which can handle different challenges. We have 3 challenges at present which involve speed, navigation, memory, problem solving, and avoidance along with IR detection.
 
