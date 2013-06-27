@@ -13,9 +13,25 @@ h4. Responsibilities
 
 Each judge will be responsible for scoring each team in all areas of the competition, as described below in more detail. An average of the scores will be computed to determine the first, second and third place or each area. In the event of equivalent scores the judges will vote to break the tie.
 
-h4. Mars Mission Briefings
+h4. Mars Mission Briefing Judges
 
-This consists of the static display as well as conversational interaction with the team. This will focus on the software development methodology the team has chosen to create the software used by the robot. There is also a spot for hardware technical challenges the team may have had to overcome. 
+The Mission Briefings may consist of the static display as well as conversational interaction with the team. The focus of the briefing should be on the software program the team has created which is used by the robot. Please see   for more information.
+
+There will be a panel of 5 judges for each mission briefing. It is preferable that the same 5 judges listen to all teams. Each team must present within the time allotted and there is a short amount of time for questions and answers. At present the format is up to the team, but it is anticipated as the judging criteria becomes widely known this may change for future competitions. A reminder, the intent of the competition is to have one autonomous robot which can handle different challenges. We have 3 challenges at present which involve speed, navigation, memory, problem solving, and avoidance along with IR detection.
+
+At the end of Day 1, the panel of judges will determine the rank order of all the teams. This rank order will be used to determine the 1st, 2nd and 3rd place points as well as the sign up order for the next challenge. The teams vary in ages from the 5th grade on up to the 12th.
+
+Here are some areas that the judges should be focused on:
+Weighing programming skills over speed, it is easy to have the robot run fast down the maze but the real challenge is the program to solve the maze.
+Judges should be able to review programming sequences/commands which pertain to mapping or remembering route.
+Credit for logic, if the code is presented and explained.
+Credit for execution, in this case did the robot run the program.
+Credit for presentation skills.
+
+The final list of the team rankings should also contain a memo about how the robot should behave in each of the other 3 challenges. This will be used to correlate with the actual running of the robot in that particular challenge. It should be as simple as Speed: Go Straight and fast. Nav: right hand rule or left hand rule, or maze solver. Beacon run: Combination of Speed and Nav plus IR detection, or bump and go random.
+
+Each judge will have a note sheet to write any information about the presentation in order to assist the judge in ranking the team after all teams have presented. A final sheet, one for each team, will be handed into the Chief Judge with the final rank number and the 3 memos as mention above.
+
 
 h4. Earth to Mars Speed Challenge
 
