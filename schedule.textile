@@ -35,6 +35,7 @@ h3. Saturday June 29, 2013 - Day 1
 * *11:00-17:30 Team setup time and debug runs*
 * *11:00-17:30 "Mars Mission Briefings":rules.html#tech_pres*
 * *11:00-17:30 "Earth to Mars Speed Challenge":rules.html#drag_race*
+* *14:00-14:30 "Opening Remarks by Dave Roberts, San Diego County Supervisor":rules.html#drag_race*
 
 h3. Sunday June 30, 2013 - Day 2
 
