@@ -33,7 +33,7 @@ h3. Current Standing
 | Gotham City | 7 | 11:40 AM |
 | Cake | 6 | 12:05 PM |
 | The Wolverine Element | 5 | 12:05 PM |
-| M^3 | 4 | 12:30 PM |
+| M ^3^ | 4 | 12:30 PM |
 | Rylex 4 | 3 | 12:30 PM |
 | NorthernNerds | 2 | 12:55 PM |
 | Shwayze | 1 | 12:55 PM |
