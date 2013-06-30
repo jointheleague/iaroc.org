@@ -18,6 +18,26 @@ h3. DATE AND TIME: June 29 - June 30, 2013
 
 See "schedule":schedule.html for details.
 
+h3. Current Standing
+
+|_. Team Name |_. Rank |_. Mars Navigation Challenge Time |
+| Lightning | 16 | 10:00 AM |
+| Skulleyswag | 15 | 10:00 AM |
+| Walrus | 14 | 10:25 AM |
+| Easy | 13 | 10:25 AM |
+| The Nerd Herd | 12 | 10:50 AM |
+| Majestic Narwhal | 11 | 10:50 AM |
+| Wilson Tiger Bots | 10 | 11:15 AM |
+| RDS-37 | 9 | 11:15 AM |
+| Preuss School Snapdragon | 8 | 11:40 AM |
+| Gotham City | 7 | 11:40 AM |
+| Cake | 6 | 12:05 PM |
+| The Wolverine Element | 5 | 12:05 PM |
+| M^3 | 4 | 12:30 PM |
+| Rylex 4 | 3 | 12:30 PM |
+| NorthernNerds | 2 | 12:55 PM |
+| Shwayze | 1 | 12:55 PM |
+
 h3. Previous iARoC videos/photos:
 
 * "iARoC 2010 Photos":http://www.flickr.com/photos/27996561@N03/sets/72157624413359332/with/4757480285/
