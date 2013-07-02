@@ -19,24 +19,29 @@ h3. DATE AND TIME: June 29 - June 30, 2013
 See "schedule":schedule.html for details.
 
 h3. Current Standing
+Congratulations to all the teams who participated in the 2013 iARoC!
+We had a great competition with lots of fun!
+The highlight was seeing one robot, Team NortherNerds, outside the competition demonstrate mapping of the maze!
 
-|_. Team Name |_. Rank |_. Mars Navigation Challenge Time |
-| Lightning | 16 | 10:00 AM |
-| Skulleyswag | 15 | 10:00 AM |
-| Walrus | 14 | 10:25 AM |
-| Easy | 13 | 10:25 AM |
-| The Nerd Herd | 12 | 10:50 AM |
-| Majestic Narwhal | 11 | 10:50 AM |
-| Wilson Tiger Bots | 10 | 11:15 AM |
-| RDS-37 | 9 | 11:15 AM |
-| Preuss School Snapdragon | 8 | 11:40 AM |
-| Gotham City | 7 | 11:40 AM |
-| Cake | 6 | 12:05 PM |
-| The Wolverine Element | 5 | 12:05 PM |
-| M ^3^ | 4 | 12:30 PM |
-| Rylex 4 | 3 | 12:30 PM |
-| NorthernNerds | 2 | 12:55 PM |
-| Shwayze | 1 | 12:55 PM |
+
+|_. Team Name |_. Mars Mission Briefing ||_. Earth to Mars Speed Challenge |_. CAPCOM |_. Mars Navigation Challenge ||_. Mars Beacon Run ||_. Total |
+| | RANK | SCORE | SCORE | SCORE | TIME | SCORE | TIME | SCORE | |
+| Gotham City | 7 | 100 | 50 | 100 | 3:01 | 900 | | 100 | 1250 |
+| NortherNerds | 2 | 350 | 450 | 100 | 5:37 | 200 | | 100 | 1200 |
+| Skulleyswag | 15 | 100 | 50 | 100 | -- | 100 | 1:00 | 700 |  1050 |
+| Easy | 13 | 100 | 50 | 100 | 3:28 | 600 |  | 100 | 950 |
+| Walrus | 14 | 100 | 50 | 100 | 3:58 | 200 | 1:44 | 500 | 950 |
+| Shwayze | 1 | 550 | 50 | 100 | -- | 100 |  | 100 | 900 |
+| Cake | 6 | 100 | 50 | 100 | 4:03 | 200 | 3:03 | 300 | 750 |
+| The Wolverine Element | 5 | 100 | 250 | 100 | -- | 100 |  | 100 | 650 |
+| Majestic Narwhal | 11 | 100 | 50 | 100 | 3:45 | 300 |  | 100 | 650 |
+| Rylex 4 | 3 | 150 | 50 | 100 | 8:37 | 200 |  | 100 | 600 |
+| The Nerd Herd | 12 | 100 | 50 | 100 | 5:33 | 200 |  | 100 | 550 |
+| Lightning | 16 | 100 | 50 | 100 | 4:20 | 200 |  | 100 | 550 |
+| M3 | 4 | 100 | 100 | 100 | -- | 100 |  | 100 | 500 |
+| RDS-37 | 9 | 100 | 50 | 100 | -- | 100 |  | 100 | 450 |
+| Wilson Tiger Bots | 10 | 100 | 50 | 100 | -- | 100 |  | 100 | 450 |
+| Preuss School Snapdragon | 8 | 100 | 50 | 100 | NP | NP | NP | NP | 250 |
 
 h3. Previous iARoC videos/photos:
 
