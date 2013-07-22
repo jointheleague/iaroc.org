@@ -44,7 +44,7 @@ The highlight was seeing one robot, Team NortherNerds, outside the competition d
 | Preuss School Snapdragon | 8 | 100 | 50 | 100 | NP | NP | NP | NP | 250 |
 
 <figure>
-  <iframe width="560" height="315" src="//www.youtube.com/embed/zi-tJoKEIIo" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="//www.youtube.com/embed/3mJz66GbupM" frameborder="0" allowfullscreen></iframe>
   <figcaption>iARoC 2013 RoboCamp</figcaption>
 </figure>
 
