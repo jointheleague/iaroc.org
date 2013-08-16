@@ -20,6 +20,9 @@ See "schedule":schedule.html for details.
 
 h3. Current Standing
 Congratulations to all the teams who participated in the 2013 iARoC!
+<figure>
+<iframe width="420" height="315" src="//www.youtube.com/embed/wLjDMJcByGk" frameborder="0" allowfullscreen></iframe>
+</figure>
 We had a great competition with lots of fun!
 The highlight was seeing one robot, Team NortherNerds, outside the competition demonstrate mapping of the maze!
 
