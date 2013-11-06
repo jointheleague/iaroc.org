@@ -17,7 +17,7 @@ h3. Donate Online
 
 {% include paypal.html %}
 
-h3. 2013 Sponsors
+h3. 2014 Sponsors
 
 * CareFusion
 * Johnson CreativeSolutions
