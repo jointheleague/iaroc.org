@@ -11,21 +11,21 @@ The second day will be the actual competition, where each Team will get the oppo
 
 Throughout the competition, there will be a main display board listing the current standing of each Team.
 
-h3. April 1, 2013 - Final day to register
+h3. May 1, 2014 - Final day to register
 
 All "entry forms":registration.html must be sent by this date.
 
-h3. June 24, 2013- RoboCamp Begins
+h3. June 23, 2014 - RoboCamp Begins
 
-A Robo Camp will be held with extended hours for the entire week prior to the competition, June 24 - June 28, 2013. Expert technical assistance will be available during Robo Camp hours, 1:00 PM - 8:00 PM (1:00 PM - 5:00 PM Friday).
+A Robo Camp will be held with extended hours for the entire week prior to the competition, June 23 - June 27, 2014. Expert technical assistance will be available during Robo Camp hours, 1:00 PM - 8:00 PM (1:00 PM - 5:00 PM Friday).
 
-h3. Friday, June 28, 2013 - Setup and drop off
+h3. Friday, June 27, 2014 - Setup and drop off at Reuben H. Fleet Science Center
 
 * This day is only for the competition organizers to drop off materials and start setup
 * 17:00-20:00 Move maze materials from RoboCamp to Reuben H. Fleet Science Center
 * 17:00 Friday RoboCamp Ends
 
-h3. Saturday June 29, 2013 - Day 1
+h3. Saturday June 28, 2014 - Day 1
 
 * 07:00-09:00 Organizers finalize setup of robot arena/maze
 * 08:30 Judges arrive to assist in setup.
@@ -37,7 +37,7 @@ h3. Saturday June 29, 2013 - Day 1
 * *11:00-17:30 "Mars Mission Briefings":rules.html#tech_pres*
 * *11:00-17:30 "Earth to Mars Speed Challenge":rules.html#drag_race*
 
-h3. Sunday June 30, 2013 - Day 2
+h3. Sunday June 29, 2014 - Day 2
 
 * 08:00-09:30 Organizers prepare for day
 * 08:30 Judges arrive to assist in setup.
