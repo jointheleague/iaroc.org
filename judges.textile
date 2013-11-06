@@ -7,7 +7,7 @@ h2. {{ page.title }}
 
 h4. Become a Judge
 
-We are still looking for a few good citizens to be judges at the iARoC. Please read on and if you are interested send us an email at "info AT iaroc DOT com".
+We are still looking for a few good citizens to be judges at the iARoC. Please read on and if you are interested send us an email at "info@iaroc.com".
 
 h4. Responsibilities
 
