@@ -11,10 +11,10 @@ $1000 First Prize $500 Second Prize $250 Third Prize
 
 h3. LOCATION: Reuben H. Fleet Science Center at Balboa Park, San Diego
 
-h3. DATE AND TIME: June 29 - June 30, 2013
+h3. DATE AND TIME: June 28 - June 29, 2014
 
-* RoboCamp  Monday&ndash;Friday, June 24&ndash;28, 1:00 PM&ndash;8:00 PM (5:00 PM on Friday)
-* iARoC            Saturday&ndash;Sunday,  June 29&ndash;30, 9:00 AM&ndash;5:00 PM
+* RoboCamp  Monday&ndash;Friday, June 23&ndash;27, 1:00 PM&ndash;8:00 PM (5:00 PM on Friday)
+* iARoC            Saturday&ndash;Sunday,  June 28&ndash;29, 9:00 AM&ndash;5:00 PM
 
 See "schedule":schedule.html for details.
 
