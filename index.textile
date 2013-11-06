@@ -3,7 +3,7 @@ layout: default
 title: International Autonomous Robot Competition
 ---
 
-h2. 6th Annual International Autonomous Robot Competition (iARoC)
+h2. 7th Annual International Autonomous Robot Competition (iARoC)
 
 h3. Prizes! Excitement!
 
