@@ -5,6 +5,10 @@ title: Rules
 
 h2. {{ page.title }}
 
+h3. 2014-01-21 UPDATE!
+A committee has been formed to review the rules and point structure for the 2014 Competition.
+Please come back to the rules page in February for the updates.
+
 All rules are subject to change at the discretion of the iARoC organization.
 
 h3. Overview
