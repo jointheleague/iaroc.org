@@ -8,7 +8,7 @@ h2. {{ page.title }}
 To register, do the following
 
 # Download and fill out the Entry Form (under attachments below).
-# Mail the completed entry form with team entry fee of $500 ($400 if received prior to April 1, 2014) to the address below.
+# Mail the completed entry form with team entry fee of $500 to the address below.
 
 <pre>Wintriss Technical Schools
 Post Office Box 910471
@@ -21,7 +21,7 @@ Check out iARoC videos and pictures at www.wintrisstech.org.
 
 *Registration Deadline*: The last day for registration is May 1, 2014. Late registrations will be considered on a case-by-case basis and will be charged a late registration fee.
 
-The cost for registration for a team is $500, non-refundable, $400 if received prior to April 1, 2014. Any individual or group can enter more than one robot, but a registration fee must accompany each team entry. The same physical robot cannot be entered twice. A team can have copies of the same robot to use as a backup or spare parts or relay running. For first time entrants, discounts are available for iRobot Roomba Creates and Sun Microsystems SPOT controllers.
+The cost for registration for a team is $500, non-refundable. Any individual or group can enter more than one robot, but a registration fee must accompany each team entry. The same physical robot cannot be entered twice. A team can have copies of the same robot to use as a backup or spare parts or relay running. For first time entrants, discounts are available for iRobot Roomba Creates and Sun Microsystems SPOT controllers.
 
 h4. Entry
 
